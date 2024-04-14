@@ -24,7 +24,7 @@ ansible
 
 ⚡ Fun fact: ...
 
-Me:
+_Me:
 _can you tell a story about J. Dotinga as web developer_
 
 ChatGPT
@@ -38,7 +38,7 @@ But J. Dotinga's journey wasn't without its challenges. He faced tight deadlines
 
 One of J. Dotinga's most memorable projects was creating a website for a small, family-owned business. The owners had a dream of expanding their reach beyond their local community and wanted a website that would showcase their products and tell their story to the world. J. Dotinga listened intently to their vision, then set to work, pouring his creativity and expertise into every aspect of the site.
 
-The result was nothing short of spectacular. The website was sleek, intuitive, and brimming with personality. It drew visitors in with stunning visuals, engaging content, and seamless navigation. Within weeks of launching, the business saw a significant uptick in online sales, and the owners were overjoyed with the impact J. Dotinga's work had made on their livelihood.
+The result was nothing short of spectacular. The website was sleek, intuitive, and brimming with personality. It drew visitors in with stunning visuals, engaging content, and seamless navigation. Within weeks of launching, the business saw a significant uptick in online sales, and the owners were overjoyed with the impact J. Dotinga's work had made on their livelihood._
 
 As word of J. Dotinga's talents spread, he found himself at the forefront of the web development industry, sought after by clients far and wide. Yet, amid the whirlwind of success, he remained humble and grounded, always eager to learn and grow as a developer.
 
