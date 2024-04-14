@@ -23,10 +23,10 @@ ansible
 - ⚡ Fun fact: ...
 
 Me:
-can you tell a story about J. Dotinga as web developer
+_can you tell a story about J. Dotinga as web developer_
 
 ChatGPT
-Once upon a time, in a bustling city filled with skyscrapers and innovation, there lived a young web developer named J. Dotinga. J. Dotinga wasn't your ordinary coder; he had an insatiable curiosity and a knack for turning lines of code into stunning digital experiences.
+_Once upon a time, in a bustling city filled with skyscrapers and innovation, there lived a young web developer named J. Dotinga. J. Dotinga wasn't your ordinary coder; he had an insatiable curiosity and a knack for turning lines of code into stunning digital experiences.
 
 From a young age, J. Dotinga was drawn to the world of technology. He spent countless hours tinkering with computers, teaching himself programming languages, and exploring the depths of the internet. His passion for web development burned bright, fueled by his desire to create beautiful, functional websites that would captivate audiences around the world.
 
@@ -40,5 +40,5 @@ The result was nothing short of spectacular. The website was sleek, intuitive, a
 
 As word of J. Dotinga's talents spread, he found himself at the forefront of the web development industry, sought after by clients far and wide. Yet, amid the whirlwind of success, he remained humble and grounded, always eager to learn and grow as a developer.
 
-And so, the legend of J. Dotinga, the web developer extraordinaire, grew, inspiring a new generation of coders to push the boundaries of what's possible in the digital realm. For J. Dotinga, the journey was never about accolades or recognition; it was about the joy of creating something truly remarkable and making a meaningful impact in the world, one line of code at a time.
--->
+And so, the legend of J. Dotinga, the web developer extraordinaire, grew, inspiring a new generation of coders to push the boundaries of what's possible in the digital realm. For J. Dotinga, the journey was never about accolades or recognition; it was about the joy of creating something truly remarkable and making a meaningful impact in the world, one line of code at a time._
+
