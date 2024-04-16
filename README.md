@@ -32,4 +32,5 @@ Absolutely!
 
 Jan Dotinga, a skilled web developer, brings digital dreams to life with precision and flair. From sleek startups to impactful nonprofits, Jan's expertise in coding and design makes him a sought-after talent. His dedication and ingenuity inspire peers and clients alike, leaving a lasting mark on the ever-evolving landscape of the web.
 
-Visit: dotinga.com
+Visit: 
+[Dotinga.com](https://dotinga.com)
