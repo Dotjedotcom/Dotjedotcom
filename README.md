@@ -2,27 +2,15 @@
 ### Hi there 👋
 
 I'm Jan, I'm an allround passionate coder, languages I work most with are typescript/javascript and Phyton.
-Fan of Nuxtjs and vuetify
+Fan of Nuxtjs and vue(tify), Home Assistant.
 
-🔭 I’m currently working on ...
+🔭 I’m currently still working on ...
 Automating and deploying via ansible
 
 🌱 I’m currently learning ...
-ansible
+Ansible, Home Assistant, ssl, docker
 
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-
-> | dev null
-> 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z0GX2mTUtfo?si=2DsIK1EfWo8ulMvT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
--->
-
-⚡ Fun fact: ...
+⚡ Fun fact: ... | dev null
 
 🤔 User
 can you tell a story about Jan Dotinga as web developer and make it concise?
